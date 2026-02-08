@@ -1,3 +1,12 @@
+<div style="position: relative; width: 100%; margin-bottom: 60px;">
+  <!-- Cover image -->
+  <img src="image-2.png" alt="Cover CIDE" style="width: 100%; max-height: 280px; object-fit: cover; display: block; border-radius: 0 0 8px 8px;" />
+  <!-- Logo superpuesto -->
+  <img src="image-1.png" alt="Logo CIDE" style="position: absolute; bottom: -40px; left: 30px; width: 120px; height: 120px; object-fit: contain; background: white; border-radius: 12px; padding: 10px; box-shadow: 0 2px 8px rgba(0,0,0,0.15);" />
+</div>
+
+# Planeación del curso de francés del CIDE. (Español): Para los tutores.
+
 
 **Autor del documento:** Donovan Byron Díaz Moreno. Licenciatura en Economía (CIDE) - Generación 2022.
 
