@@ -1,4 +1,3 @@
----
 
 **Autor del documento:** Donovan Byron Díaz Moreno. Licenciatura en Economía (CIDE) - Generación 2022.
 
@@ -128,8 +127,6 @@ Para que todos los estudiantes puedan alcanzar el objetivo de hablar francés co
     1. Con un vídeo por semana (5 minutos como mínimo), los estudiantes grabarán un vídeo mostrando :
         1. lo que han aprendido durante la semana.
         2. lo que más les ha gustado en relación con los temas.
-
----
 
 ## **Nivel A1.1: Primer semestre**
 
@@ -1091,4 +1088,3 @@ Nivel B1 - B2
         1. Para tener éxito con este punto, recomendamos la descarga de la aplicación "Hellotalk", es una aplicación gratuita que pueden descargar en PlayStore y App-Store.
         2. Consideraciones importantes: 
             1. Les invitamos a tener la supervisión de los padres en el momento de cada contacto, la aplicación requiere una edad mínima de 18 años, por lo que es necesario que los padres estén presentes en cada momento de la interacción de los estudiantes con desconocidos con la aplicación.
-            
