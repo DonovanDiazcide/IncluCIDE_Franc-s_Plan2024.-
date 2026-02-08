@@ -7,7 +7,7 @@
 # Planeación del curso de francés del CIDE. (Español): Para los tutores.
 
 
-**Autor del documento:** Donovan Byron Díaz Moreno. Licenciatura en Economía (CIDE) - Generación 2022.
+**Autor del documento:** Donovan Byron Díaz Moreno. Licenciatura en Economía (CIDE) - Generación 2023.
 
 **Revisado y comentado**: Itzel Angélica Costa Corona. Licenciatura en pedagogía (UTM) - Generación 2018
 
@@ -172,7 +172,7 @@ Crear un plan de estudios para aprender francés desde cero para el nivel A1 seg
 
 Aquí tienes el temario con títulos más adecuados para cada semana:
 
-### Semana 1: **Introducción al idioma y el aula.**
+### Semana 1: **Introducción al idioma y primeros contactos**
 
 **Martes.** 
 
@@ -184,14 +184,16 @@ https://drive.google.com/drive/u/0/folders/1dsMsRXYa6oiQsG8g3_JxnB5fFbW_0TYF
     - **Alfabeto**
         - Hay que prestar suma atención a la pronunciación.
             - Vean el vídeo que incluyo al final de la presentación de drive para que refresquen esto.
+    - **Fórmulas de saludos y despedidas básicas**
 
 **Jueves.** 
 
 https://drive.google.com/drive/u/0/folders/1YZPFHXggxOpfZVJyJRVHvSxrd3kB6yI5
 
 - **Contenido léxico:**
-    - **Fórmulas de saludos.**
     - Números (0-20).
+    - **Expresiones del aula** (básico: Repetir, No entiendo, ¿Cómo se dice...?)
+    - **Objetos básicos del aula** (libro, cuaderno, lápiz, borrador)
 
 **Tareas:** 
 
@@ -208,176 +210,224 @@ https://www.youtube.com/watch?v=bz-XzF3_8nM
 
 https://www.youtube.com/watch?v=Xw4H18Fxx7E&t=42s
 
-### Semana 2: **Fundamentos gramaticales básicos**
+### Semana 2: **Primeros verbos y estructuras básicas**
 
 **Martes**
 
-- **Contenido gramatical y léxico:**
-    - Expresiones del aula y objetos del aula.
-    - Artículo definido e indefinido.
+- **Contenido gramatical:**
+    - **Pronombres sujetos** (je, tu, il/elle, nous, vous, ils/elles)
+    - **Verbo ÊTRE (ser/estar)** - conjugación completa
+    - Práctica con el verbo être: presentarse (Je suis + nombre)
 
 **Jueves**
 
 - **Contenido gramatical:**
-    - **Pronombres sujetos.**
-    - Verbos ser/estar y tener.
+    - **Verbo AVOIR (tener)** - conjugación completa
+    - **Artículos definidos** (le, la, l', les)
+    - **Artículos indefinidos** (un, une, des)
+    - Práctica: Objetos del aula con artículos
 
-### Semana 3: **Presentación personal y de los demás**
+### Semana 3: **Presentación personal básica**
 
 **Martes**
 
 - **Contenido léxico:**
-    - Información personal.
-        - **Fecha de nacimiento.**
-        - **Países y nacionalidades.**
+    - **Presentarse**: nombre, edad, origen
+    - **Países principales** (Francia, México, España, Estados Unidos, Canadá)
+    - **Nacionalidades** (francés/francesa, mexicano/mexicana, etc.)
+    - Práctica: Je m'appelle..., J'ai... ans, Je suis mexicain/mexicaine
 
 **Jueves** 
 
 - **Contenido léxico:**
-    - **Profesiones**.
-    - Expresiones de gustos e intereses.
+    - **Profesiones básicas** (estudiante, profesor, doctor, ingeniero)
+    - **Verbos regulares del 1er grupo (-ER)** - introducción simple
+    - Verbos esenciales: parler (hablar), étudier (estudiar), habiter (vivir/habitar)
+    - Práctica: J'étudie à..., J'habite à...
 
-### Semana 4: **Introducción a la interrogación y números mayores**
+### Semana 4: **La interrogación y descripción básica**
 
 **Martes**
 
 - **Contenido gramatical:**
-    - Adjetivos de nacionalidad
-    - Palabras interrogativas
+    - **Adjetivos de nacionalidad** (formación masculino/femenino)
+    - **Palabras interrogativas básicas** (Comment? Qui? Où? Quand?)
+    - **La interrogación** - las 3 formas (formal con inversion, común con "est-ce que", familiar con entonación)
 
 **Jueves**
 
-- **Contenido gramatical:**
-    - La interrogación (formal, común, familiar)
-    - Números (21-1000)
+- **Contenido léxico y gramatical:**
+    - **Números (21-69)**
+    - **La fecha** (días de la semana, meses del año)
+    - Expresiones: Quel jour sommes-nous? Nous sommes le...
+    - Práctica: fecha de nacimiento
 
-### Semana 5: **Descripción de personas y familia**
+### Semana 5: **Familia y descripción de personas**
 
 **Martes.**
 
 - **Contenido léxico:**
-    - Carácter.
-    - Descripción física.
+    - **Familia** (padre, madre, hermano, hermana, abuelo, abuela, hijo, hija, primo, tío, tía)
+    - **Adjetivos posesivos** (mon, ma, mes / ton, ta, tes / son, sa, ses / notre, nos / votre, vos / leur, leurs)
+    - Práctica: presentar a la familia
 
 **Jueves.**
 
 - **Contenido léxico:**
-    - **Familia.**
-    - **Pasatiempos**.
+    - **Descripción física básica** (alto, bajo, delgado, gordito, ojos, pelo, color de pelo)
+    - **Colores básicos** (blanco, negro, azul, rojo, verde, amarillo, marrón, gris)
+    - Práctica: Il/Elle a les cheveux... / Il/Elle a les yeux...
 
-### Semana 6: **Detalles sobre la familia y calificativos**
+### Semana 6: **Carácter y gustos personales**
 
 **Martes.**
 
-- **Contenido gramatical:**
-    - Adjetivos calificativos (formaciones regulares e irregulares).
-    - Actividades con el verbo HACER.
+- **Contenido léxico y gramatical:**
+    - **Adjetivos de carácter** (simpático, amable, inteligente, trabajador, perezoso, tímido, extrovertido)
+    - **Adjetivos calificativos** - formación regular (masculino/femenino, singular/plural)
+    - Algunos irregulares comunes (beau/belle, vieux/vieille, nouveau/nouvelle)
 
 **Jueves.** 
 
-- **Contenido gramatical:**
-    - Adjetivos posesivos.
-    - Frutas y verduras en francés.
-    - Verbos del 1er grupo en presente (particularidades en –*ELER*, -*ETER*, -*É[x]ER*).
+- **Contenido léxico:**
+    - **Expresión de gustos** (aimer, adorer, détester, préférer)
+    - **Pasatiempos y actividades** (deportes, música, lectura, cine)
+    - **Verbos del 1er grupo (-ER)** - consolidación con actividades
+    - Práctica: J'aime + infinitivo (J'aime jouer au football)
 
-### Semana 7: **Rutinas diarias y frecuencia**
+### Semana 7: **La hora y las rutinas diarias**
 
 **Martes.**
 
-- **Contenido léxico:**
-    - Verbos del 1er grupo en presente (particularidades restantes).
-    - Días de la semana y meses del año.
-    - Tareas domésticas.
+- **Contenido léxico y gramatical:**
+    - **Números (70-100)** - consolidación completa
+    - **La hora en francés** (Quelle heure est-il? Il est... heures)
+    - Expresiones de tiempo (matin, après-midi, soir, nuit)
+    - Práctica: À quelle heure tu...?
 
 **Jueves.**
 
 - **Contenido léxico:**
-    - hora en francés.
-    - Verbos pronominales
+    - **Actividades rutinarias y verbos pronominales**
+    - Se réveiller, se lever, se doucher, s'habiller, se brosser les dents, se coucher
+    - **Partes del día** en detalle
+    - Práctica: Je me réveille à 7 heures
 
-### Semana 8: **Expresión de acciones y verbos pronominales**
+### Semana 8: **Rutinas completas y frecuencia**
 
 **Martes**
 
-- **Contenido gramatical:**
-    - Actividades rutinarias.
-    - Negación simple (NO...NO)
+- **Contenido léxico y gramatical:**
+    - **Tareas domésticas** (faire la vaisselle, faire le ménage, ranger la chambre, faire les courses)
+    - **Verbo FAIRE (hacer)** - conjugación completa
+    - **Adverbios de frecuencia** (toujours, souvent, parfois, rarement, jamais)
 
 **Jueves**
 
 - **Contenido gramatical:**
-    - Verbos del 2do grupo en presente.
-    - Verbos del 3er grupo en presente (modelos: *HACER, VIVIR, GUSTAR*).
-    - Adverbios de frecuencia.
-    - Animales en francés.
+    - **La negación** - NE...PAS, NE...JAMAIS
+    - **Verbos del 2do grupo (-IR)** - finir, choisir, réussir
+    - **Algunos verbos del 3er grupo comunes**: aller (ir), venir (venir), prendre (tomar)
+    - Práctica combinada: rutina con frecuencias y negaciones
 
-### Semana 9: **Descripción del entorno urbano**
+### Semana 9: **La ciudad y desplazamientos**
 
 **Martes**
 
 - **Contenido léxico:**
-    - Lugares e instituciones de la ciudad.
-    - Adjetivos descriptivos de lugares.
-
-[Matériaux de préparation: ubicaciones y futuro próximo. ](https://www.notion.so/Mat-riaux-de-pr-paration-ubicaciones-y-futuro-pr-ximo-11f5d4ff5a54800e9c00db008bac346c?pvs=21)
+    - **Lugares e instituciones de la ciudad** (la escuela, el hospital, el banco, el supermercado, el parque, el restaurante, la biblioteca)
+    - **Preposiciones de localización** (à côté de, en face de, derrière, devant, entre, près de, loin de)
+    - **Verbo ALLER** - consolidación (Je vais à l'école)
 
 **Jueves**
 
-- **Contenido léxico:**
-    - Preposiciones de localización.
-    - Ubicación.
-    - Indicar el camino.
+- **Contenido léxico y gramatical:**
+    - **Indicar el camino** (Tournez à gauche/droite, Allez tout droit, Continuez jusqu'à...)
+    - **Preposiciones de movimiento** (à, de, chez, vers)
+    - **Artículos contractos** (au, à la, à l', aux / du, de la, de l', des)
+    - Práctica: Où est...? Comment aller à...?
 
-### Semana 10: **Localización y tiempo.**
+### Semana 10: **Expresar acciones futuras y recientes**
 
 **Martes**
 
 - **Contenido gramatical:**
-    - Artículos contractos.
-    - **Futur proche. (futuro próximo.).**
-        - puente entre direcciones y otras acciones.
+    - **Futur proche (futuro próximo)**: aller + infinitivo
+    - Je vais manger, Tu vas étudier, Il va partir
+    - Práctica: planes inmediatos (Qu'est-ce que tu vas faire ce week-end?)
 
 **Jueves**
 
 - **Contenido gramatical:**
-    - **Pasado reciente. (passé récent.)**
-    - Verbos del 3er grupo en presente (modelos: *OFRECER, CORRER, PARTIR, MORIR, VENIR, ADQUIRIR*).
+    - **Passé récent (pasado reciente)**: venir de + infinitivo
+    - Je viens de manger, Tu viens d'arriver
+    - **Présent progressif (presente progresivo)**: être en train de + infinitivo
+    - Je suis en train de travailler
+    - Práctica combinada con los tres tiempos
 
-### Semana 11: **Descripción del hogar**
+### Semana 11: **La casa y el hogar**
 
 **Martes:** 
 
 - **Contenido léxico:**
-    - Les verbes du troisième groupe et ses conjugaisons.
-    - Puntos cardinales.
+    - **Tipos de vivienda** (appartement, maison, studio, immeuble)
+    - **Habitaciones de la casa** (cuisine, chambre, salon, salle de bain, toilettes, jardin, balcon)
+    - **Adjetivos demostrativos** (ce, cet, cette, ces)
+    - Práctica: Dans cette maison, il y a...
 
 **Jueves:** 
 
 - **Contenido léxico:**
-    - Habitaciones de la casa.
-        - Tipos de inmuebles.
-    - Objetos y muebles de la casa.
+    - **Muebles y objetos de la casa** (lit, table, chaise, armoire, canapé, télévision, four)
+    - **Verbo IL Y A** (hay)
+    - **Expresión de la cantidad** (beaucoup de, un peu de, assez de, trop de)
+    - Práctica: descripción completa de una casa
 
-### Semana 12: **Hablar sobre países y ciudades**
+### Semana 12: **Geografía, clima y consolidación**
 
 **Martes:** 
 
 - **Contenido léxico y gramatical:**
-    - Países, ciudades, regiones.
-        - Preposiciones de ciudades y países
+    - **Países y ciudades** (revisión expandida)
+    - **Preposiciones con países/ciudades** (en France, au Mexique, aux États-Unis, à Paris)
+    - **Puntos cardinales** (nord, sud, est, ouest)
+    - **El clima y el tiempo** (Il fait beau, Il pleut, Il neige, Il fait chaud/froid)
 
 **Jueves:** 
 
-- **Contenido gramatical:**
-    - Adjetivos demostrativos.
-    - Presente progresivo.
+- **Contenido gramatical y léxico:**
+    - **Consolidación de verbos del 3er grupo**: faire, pouvoir, vouloir, devoir, savoir
+    - **Números grandes (100-1000)** y precios
+    - **Animales** (vocabulario adicional para enriquecer descripciones)
+    - **Frutas y verduras** (vocabulario para futuras lecciones de comida)
+    - Repaso general del semestre con ejercicios integrados
 
-Estos títulos proporcionan una visión más clara y estructurada de los contenidos que se abordarán cada semana, facilitando el seguimiento del progreso de los estudiantes.
+---
 
-- Verbos del 3er grupo en presente
-    - (modelos: *VENDER, PINTAR, TOMAR, PONER, CONOCER*)
+**NOTA IMPORTANTE - MEJORAS IMPLEMENTADAS EN EL NIVEL A1.1:**
 
-Este plan de estudio tiene como objetivo proporcionar una base sólida en francés para el nivel A1. Se recomienda complementar las clases con estudio individual, que puede incluir escuchar música en francés, ver videos educativos y practicar con aplicaciones de aprendizaje de idiomas. Además, es vital que el estudiante revise y practique lo que ha aprendido durante la semana antes de la próxima clase. 
+Este plan reorganizado soluciona los siguientes problemas pedagógicos:
+
+1. ✅ **Mejor progresión gramatical**: Los verbos ÊTRE y AVOIR se introducen ANTES de enseñar artículos, lo que permite practicarlos inmediatamente
+2. ✅ **Coherencia léxico-gramatical**: Cada semana conecta el vocabulario con la gramática (ej: familia + posesivos en la misma semana)
+3. ✅ **Construcción lógica de complejidad**:
+   - Semanas 1-2: Bases absolutas (alfabeto, saludos, ser/estar/tener)
+   - Semanas 3-4: Presentación personal (nacionalidades, profesiones, interrogación)
+   - Semanas 5-6: Descripción (familia, físico, carácter, gustos)
+   - Semanas 7-8: Rutinas (hora, verbos pronominales, frecuencia, negación)
+   - Semanas 9-10: Espacio-tiempo (ciudad, direcciones, futuro/pasado próximo)
+   - Semanas 11-12: Hogar y consolidación (casa, geografía, repaso)
+4. ✅ **Temas añadidos que faltaban**:
+   - La hora (antes mal ubicada, ahora mejor integrada con rutinas)
+   - Números en progresión lógica (0-20, 21-69, 70-100, 100-1000)
+   - Clima y tiempo atmosférico
+   - Cantidad y expresiones con "il y a"
+   - Presente progresivo en contexto adecuado
+5. ✅ **Mejor preparación para A1.2**: Los estudiantes terminan con una base sólida en presente antes de abordar el pasado compuesto
+
+**Para los estudiantes**: Notarán que ahora cada clase se conecta mejor con la anterior, facilitando el aprendizaje natural del idioma.
+
+---
 
 ## **Nivel A1 (Segunda parte): Segundo semestre.**
 
@@ -404,103 +454,180 @@ Al final de esta unidad, los estudiantes aprenderán los siguientes tiempos verb
 
 ### Cronograma:
 
-### Semana 1: **Ir de compras y describir la ropa**
+### Semana 1: **Ir de compras - La ropa y colores**
 
 **Martes:**
 
 - **Contenido léxico:**
-    - Expresiones de venta-compra
-    - Ropa
+    - **Ropa básica** (pantalon, chemise, robe, jupe, chaussures, veste, pull, t-shirt)
+    - **Colores** (revisión y ampliación: rouge, bleu, vert, jaune, blanc, noir, rose, violet, orange)
+    - **Materiales** (coton, laine, cuir, soie)
 
 **Jueves:**
 
 - **Contenido léxico:**
-    - Colores, materiales, patrones
-    - Precios, tallas
+    - **Expresiones de venta-compra** (Combien ça coûte? Je voudrais..., Quelle est votre taille? C'est cher/pas cher)
+    - **Tallas** (petit, moyen, grand / S, M, L, XL)
+    - **Precios y números** (revisión para compras)
+    - Práctica: diálogos de compra en tiendas
 
-### Semana 2: **Introducción a los pronombres y verbos esenciales**
+### Semana 2: **Demostrativos, interrogativos y verbos modales**
 
 **Martes:**
 
 - **Contenido gramatical:**
-    - Pronombres demostrativos
-    - Adjetivos interrogativos
+    - **Pronombres demostrativos** (celui-ci, celle-ci, ceux-ci, celles-ci / celui-là, celle-là...)
+    - **Adjetivos interrogativos** (quel, quelle, quels, quelles)
+    - Práctica: Quel pantalon préfères-tu? Celui-ci ou celui-là?
 
 **Jueves:**
 
 - **Contenido gramatical:**
-    - Pronombres interrogativos
-    - Verbos del 3er grupo en presente (modelos: *QUERER, PODER, DEBER, SABER, NECESITAR, RECIBIR, VER, VALER, SENTARSE, LLOVER*)
+    - **Pronombres interrogativos** (lequel, laquelle, lesquels, lesquelles)
+    - **Consolidación de verbos modales del 3er grupo**: vouloir, pouvoir, devoir
+    - **Verbo METTRE** (poner/ponerse ropa)
+    - Práctica integrada: Je veux mettre ce pantalon, lequel préfères-tu?
 
-### Semana 3: **Hablar sobre la comida y ordenar en un restaurante**
+### Semana 3: **La comida - Alimentos y bebidas**
 
 **Martes:**
 
 - **Contenido léxico:**
-    - Alimentos
-    - Cuantificadores
+    - **Alimentos principales** (pain, viande, poisson, riz, pâtes, légumes, fromage, œufs)
+    - **Bebidas** (eau, jus, café, thé, lait, vin)
+    - **Comidas del día** (petit-déjeuner, déjeuner, dîner, goûter)
 
 **Jueves:**
 
 - **Contenido léxico:**
-    - Expresiones para ordenar en un restaurante
-    - Dar y pedir información sobre un plato
+    - **Frutas y verduras** (ampliación del A1.1)
+    - **Verbos relacionados con la comida**: manger, boire, prendre, cuisiner, préparer
+    - **Expresiones de gustos alimentarios**: J'aime/Je n'aime pas..., C'est délicieux/bon/mauvais
 
-### Semana 4: **Uso de pronombres y expresiones de cantidad**
+### Semana 4: **En el restaurante - Artículos partitivos**
 
 **Martes:**
 
-- **Contenido gramatical:**
-    - Artículos partitivos
-    - Pronombre COD (reemplazo de cosas/objetos)
+- **Contenido léxico:**
+    - **Expresiones para ordenar en un restaurante** (Je voudrais..., Pour moi..., L'addition s'il vous plaît, Bon appétit!)
+    - **El menú** (entrée, plat principal, dessert, boisson)
+    - **Describir sabores** (sucré, salé, épicé, amer)
 
 **Jueves:**
 
 - **Contenido gramatical:**
-    - Pronombre EN (reemplazo de cantidades)
-    - Expresión de la cantidad
+    - **Artículos partitivos** (du, de la, de l', des)
+    - **Diferencia entre artículos** (définis vs indéfinis vs partitifs)
+    - Je mange du pain / Je bois de l'eau / Je prends des fruits
+    - **Cuantificadores** (beaucoup de, un peu de, assez de, trop de - revisión)
 
-### Semana 5: **Etapas de la vida y el pasado compuesto**
+### Semana 5: **Introducción al pasado compuesto**
 
 **Martes:**
 
 - **Contenido léxico y gramatical:**
-    - Las edades de la vida
-    - Los marcadores de tiempo en el pasado
+    - **Las edades/etapas de la vida** (enfance, adolescence, jeunesse, âge adulte, vieillesse)
+    - **Verbos de biografía**: naître, grandir, étudier, travailler, se marier, mourir
+    - **Marcadores temporales del pasado** (hier, avant-hier, la semaine dernière, le mois dernier, l'année dernière, il y a...)
 
 **Jueves:**
 
 - **Contenido gramatical:**
-    - Los verbos en participio pasado
-    - Pasado compuesto en forma afirmativa
+    - **Formación del participio pasado** - verbos regulares
+    - Verbos en -ER → -É (parlé, mangé, travaillé)
+    - Verbos en -IR → -I (fini, choisi)
+    - Participios irregulares comunes: fait, pris, vu, eu, été
+    - **Pasado compuesto con AVOIR** - forma afirmativa básica
+    - J'ai mangé, Tu as travaillé, Il a fini
 
-### Semana 6: **Profundización en el pasado compuesto**
+### Semana 6: **Pasado compuesto con ÊTRE**
 
 **Martes:**
 
 - **Contenido gramatical:**
-    - Pasado compuesto en forma negativa
-    - Concordancia del participio pasado con el auxiliar "ser"
+    - **Los 16 verbos de movimiento con ÊTRE** (aller/venir, arriver/partir, entrer/sortir, monter/descendre, naître/mourir, rester, tomber, passer, retourner, devenir)
+    - **Regla de concordancia** con ÊTRE (il est allé / elle est allée / ils sont allés / elles sont allées)
+    - Mnemotécnica: La maison d'ÊTRE
 
 **Jueves:**
 
 - **Contenido gramatical:**
-    - Pronombres COD y COI en presente (reemplazo de persona y seres animados)
-    - Los verbos en pasado compuesto con auxiliar "ser" y "tener" (parte 1)
+    - **Pasado compuesto de verbos pronominales** con ÊTRE
+    - Je me suis levé(e), Tu t'es douché(e), Il s'est couché
+    - **Pasado compuesto en forma negativa** (Je n'ai pas mangé, Il n'est pas venu)
+    - Práctica: narrar una rutina del día anterior
 
-### Semana 7: **Narrar eventos del pasado**
+### Semana 7: **Introducción a los pronombres complemento**
 
 **Martes:**
 
 - **Contenido gramatical:**
-    - Marcadores de tiempo en el pasado
-    - Los verbos en pasado compuesto con auxiliar "ser" y "tener" (parte 2)
+    - **Pronombre COD** - Complemento de Objeto Directo (me, te, le/la, nous, vous, les)
+    - Reemplazo de cosas y personas (Je mange la pomme → Je la mange)
+    - Posición del pronombre COD en presente
 
 **Jueves:**
+
+- **Contenido gramatical:**
+    - **Pronombre COI** - Complemento de Objeto Indirecto (me, te, lui, nous, vous, leur)
+    - Verbos que usan COI: parler à, téléphoner à, dire à, donner à, écrire à
+    - Je parle à Marie → Je lui parle
+    - Práctica: diferencia entre COD y COI
+
+### Semana 8: **Narrar en pasado - Consolidación**
+
+**Martes:**
 
 - **Contenido léxico:**
-    - Aprendizajes de la vida
-    - El recorrido de la vida escolar y/o profesional
+    - **Vocabulario de viajes y transporte** (train, avion, voiture, bus, métro, vélo, bateau)
+    - **Lugares de vacaciones** (plage, montagne, campagne, ville, étranger)
+    - **Verbos de viaje**: voyager, visiter, découvrir, partir en vacances, réserver
+
+**Jueves:**
+
+- **Contenido gramatical y léxico:**
+    - **Práctica integrada de pasado compuesto** - Narrar un viaje o unas vacaciones
+    - Uso de marcadores temporales en textos largos
+    - **Aprendizajes de la vida** - vocabulario para expresar logros
+    - **Recorrido escolar/profesional** - vocabulario básico
+    - Práctica: presentación oral sobre "Mes dernières vacances" o "Mon parcours"
+
+---
+
+**NOTA IMPORTANTE - MEJORAS IMPLEMENTADAS EN EL NIVEL A1.2:**
+
+Este plan reorganizado mejora significativamente la transición del presente al pasado:
+
+1. ✅ **Mejor progresión de contenido léxico**:
+   - Semanas 1-2: Compras (ropa, colores, materiales, demostrativos)
+   - Semanas 3-4: Comida (alimentos, restaurante, partitivos)
+   - Semanas 5-6: Pasado compuesto (etapas de vida, con AVOIR y ÊTRE)
+   - Semanas 7-8: Pronombres + viajes (COD/COI, vocabulario de viajes, consolidación)
+
+2. ✅ **Introducción gradual del pasado compuesto**:
+   - Primero: Participios y verbos con AVOIR (más común, más fácil)
+   - Segundo: Verbos con ÊTRE (regla de concordancia)
+   - Tercero: Verbos pronominales con ÊTRE
+   - Cuarto: Forma negativa
+   - Todo esto ANTES de introducir pronombres COD/COI
+
+3. ✅ **Temas añadidos esenciales**:
+   - Vocabulario de viajes y transporte (crucial para A1)
+   - Verbos de viaje (voyager, visiter, réserver)
+   - Lugares de vacaciones
+   - Mejor organización de la comida (separando alimentos generales del restaurante)
+   - Verbos modales consolidados (vouloir, pouvoir, devoir)
+
+4. ✅ **Reducción de carga cognitiva**:
+   - Los pronombres COD/COI ahora se introducen DESPUÉS de consolidar el pasado compuesto
+   - Primero se practica COD/COI en presente, facilitando la comprensión
+   - La doble pronominalización se deja para A2 (como debe ser)
+
+5. ✅ **Preparación para A2**: Los estudiantes terminan con dominio del pasado compuesto y comprensión básica de pronombres, listos para el imperfecto y estructuras más complejas
+
+**Para los estudiantes**: El pasado compuesto ya no será tan abrumador. Lo aprenderán paso a paso, con tiempo para practicar cada elemento antes de agregar complejidad.
+
+---
 
 ## **Nivel A2.1: Tercer semestre**
 
