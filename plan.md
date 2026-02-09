@@ -32,29 +32,62 @@ Para que todos los estudiantes puedan alcanzar el objetivo de hablar francés co
     1. Los temas se introducen, practican, y retoman en semanas posteriores con mayor profundidad.
     2. Cada semana construye sobre lo aprendido anteriormente, reforzando conexiones.
 
+---
+
+### 🎯 ADAPTACIONES PARA ADOLESCENTES (12-15 AÑOS) - Actualización 2026
+
+**Contexto:** Estudiantes mexicanos en modalidad online.
+
+#### Características de nuestra audiencia:
+- **Atención sostenida**: 15-20 minutos máximo por actividad
+- **Nativos digitales**: Familiaridad con tecnología, preferencia por contenido visual
+- **Influencia de pares**: Aprenden mejor en colaboración
+- **Sensibilidad a la crítica**: Requieren ambiente seguro para cometer errores
+- **Necesidad de relevancia**: Conectar contenido con sus intereses (música, series, deportes, redes)
+
+#### Ajustes metodológicos:
+1. **Regla 10-10-10**: Cambiar actividad cada 10 min, mínimo 10 interacciones, no hablar más de 10 min seguidos
+2. **Gamificación**: Puntos, insignias, competencias por equipos
+3. **Contenido relevante**: Ejemplos con influencers, series, música que conocen
+4. **Trabajo colaborativo**: Breakout rooms, proyectos en equipo
+5. **Retroalimentación positiva**: Corregir sin humillar, celebrar el esfuerzo
+
+#### Adaptaciones para modalidad online México:
+- **Sesiones de 50 minutos** (no 2 horas) para evitar fatiga de pantalla
+- **Materiales descargables** para quienes tienen conectividad intermitente
+- **WhatsApp como backup** para comunicación cuando falla internet
+- **Videos de apoyo cortos** (3-5 min) para repaso asíncrono
+
+---
+
 **Nota: Actualización 2026.** 
 
 - Después de nuestra experiencia con los cursos de francés de IncluCIDE, implementamos una integración completa de léxico y gramática en TODAS las sesiones de TODOS los niveles.
     - **Resultado esperado**: Los estudiantes pueden usar inmediatamente lo que aprenden, sin esperar a "la clase de gramática".
 
-1. **El trabajo durante la semana: Profesores y alumnos.**
-    1. **Alumnos:**
-        1. Este punto es el más esencial. Para que todo el grupo sea capaz de seguir el mismo ritmo, deben dedicar al menos 20 minutos de su día a repasar (de lunes a viernes), el contenido léxico y el contenido gramatical.
-            1. Les daremos **videos** y **ejercicios** para que puedan practicar y estudiar cada tema.
-                1. **Sobre los vídeos: opcional, algunos lo necesitarán, otros no.** 
-                    1. Absolutamente todas las clases del curso están basadas en un vídeo de Youtube, esto con el objetivo de que los alumnos sean capaces de poder ver el vídeo originar de Youtube, la grabación de la clase de la semana para despejar dudas, después, pueden contactar directamente a los profesores para evaluar la posibilidad de agendar una sesión de dudas, ya sea grupal o individual (estas sesiones deberían durar entre 10-15 minutos.)
-                2. **Sobre la práctica/tareas:** 
-                    1. Cada semana los alumnos tendrán 2 tareas en classroom, una con la asignación para el contenido abordado en la clase de los martes, y otra asignación para el material revisado en la sesión de los .  
-    2. **Profesores:** 
-        1. **Calificación de tareas:** 
-            1. Los profesores que enseñan en esta institución tienen una carga de trabajo muy alta. Es trabajo de los estudiantes hacer las tareas a conciencia, vamos a proporcionarle a los profesores la lista de respuestas a las tareas, su ustedes cuentan con el tiempo necesario, van a calificar las tareas.. 
-                1. *** **A realizar en el futuro:** ya sea porque la tecnología se volvió más accesible y rápida o porque el coordinador de francés tuvo el tiempo de crear un trigger entre google drive y chatgpt. 
-                2. Les vamos a recomendar el uso de una inteligencia artificial para que los estudiantes tengan comentarios.
-                    1. Whisper - Desarrollado por la empresa OpenIA
-                    2. ChatGPT - Desarrollado por la empresa OpenIA
-            2. De esta manera, invertirán 4 horas de su Mar
-            3.  estudiando durante el curso virtual, y al menos 1h20 revisando y practicando por su cuenta.
-2. **Evaluaciones parciales: encaminándonos hacia el examen de certificación DELF Junior B1.** 
+---
+
+### El trabajo durante la semana: Profesores y alumnos
+
+**👨‍🎓 Alumnos:**
+- **Práctica diaria**: Dedicar 15-20 minutos diarios (lunes a viernes) a repasar con:
+    - **Duolingo**: 10 minutos de práctica gamificada
+    - **Videos de pronunciación**: 5 minutos con Piece of French o Inner French
+    - **Flashcards**: Quizlet con vocabulario de la semana
+- **Tareas semanales**: 2 asignaciones en Classroom (martes y jueves)
+- **Herramientas de IA permitidas para práctica**:
+    - ChatGPT: Conversación práctica (con prompts estructurados)
+    - Elsa Speak/Speechify: Práctica de pronunciación
+    
+**👨‍🏫 Profesores:**
+- **Guías de clase**: Cada sesión tiene una guía detallada minuto a minuto
+- **Materiales pre-generados**: Presentaciones, actividades, Kahoots listos
+- **Corrección eficiente**: Uso de IA para retroalimentación de tareas escritas
+- **Seguimiento de datos**: Formulario post-clase para análisis de progreso
+
+---
+
+### Evaluaciones parciales: encaminándonos hacia el examen de certificación DELF Junior B1
     1. **Video de evaluación oral cada parcial.**
         1. **Cada tres semanas** habrá evaluaciones en las que los estudiantes grabarán un video **en francés** que será evaluado por los profesores para mostrar los errores que han cometido.
             1. En total, habrá 3 evaluaciones de este tipo durante el semestre.
@@ -323,59 +356,61 @@ https://www.youtube.com/watch?v=Xw4H18Fxx7E&t=42s
     - **Tareas domésticas**: faire la vaisselle, faire le ménage, ranger la chambre
     - **Práctica integrada**: Le matin, je me réveille à 6h30, je me douche et je prends le petit-déjeuner
 
-### Semana 8: **Frecuencia, negación y verbos grupo 2**
+### Semana 8: **Frecuencia y verbos del segundo grupo**
 
 **Martes**
 
 - **Contenido léxico y gramatical:**
-    - **Actividades rutinarias ampliadas**: prendre le petit-déjeuner, aller à l'école, rentrer à la maison
+    - **Actividades escolares y académicas**: finir les devoirs, choisir un cours, réussir un examen, réfléchir
     - **Adverbios de frecuencia**: toujours, souvent, parfois, rarement, jamais
-    - **La negación**: NE...PAS, NE...JAMAIS
-    - **Práctica**: Je fais toujours mes devoirs, Je ne regarde jamais la télé le matin
+    - **Práctica con frecuencia**: Je finis toujours mes devoirs, Il choisit souvent le cours de maths
 
 **Jueves**
 
 - **Contenido léxico y gramatical:**
-    - **Verbos del 2do grupo (-IR)**: finir, choisir, réussir, grandir
-    - **Algunos verbos del 3er grupo comunes**: aller, venir, prendre, faire
-    - **Vocabulario**: Animales domésticos (le chien, le chat, l'oiseau)
-    - **Práctica integrada**: Je finis mes devoirs à 18h, Mon chat grandit vite, Je vais à l'école en bus
+    - **Verbos del 2do grupo (-IR)**: conjugación completa
+        - finir (je finis, tu finis, il/elle finit, nous finissons, vous finissez, ils/elles finissent)
+        - choisir, réussir, grandir, réfléchir, obéir, rougir
+    - **Característica**: radicaux + -iss- en plural
+    - **La negación básica**: NE...PAS, NE...JAMAIS
+    - **Práctica integrada**: Je ne finis jamais tard, Nous choisissons nos cours, Ils réussissent l'examen
 
-### Semana 9: **La ciudad y desplazamientos**
+### Semana 9: **La ciudad y verbos del tercer grupo**
 
 **Martes**
 
 - **Contenido léxico y gramatical:**
     - **Lugares de la ciudad** (l'école, l'hôpital, la banque, le supermarché, le parc, le restaurant, la bibliothèque)
+    - **Verbos 3er grupo de movimiento**: aller, venir, partir, sortir
     - **Verbo ALLER** - conjugación completa + preposición À
     - **Artículos contractos**: au (à + le), à la, à l', aux (à + les)
-    - **Práctica**: Je vais à l'école, Tu vas au supermarché, Elle va à la banque
+    - **Práctica**: Je vais à l'école, Tu viens au parc, Nous partons au supermarché
 
 **Jueves**
 
 - **Contenido léxico y gramatical:**
-    - **Preposiciones de localización**: à côté de, en face de, derrière, devant, entre, près de, loin de
-    - **Indicar el camino**: Tournez à gauche/droite, Allez tout droit, Continuez jusqu'à...
-    - **Gramática**: Artículos contractos con DE (du, de la, de l', des)
-    - **Práctica**: Où est la banque? - La banque est à côté du supermarché
+    - **Verbos 3er grupo comunes**: prendre, faire, pouvoir, vouloir, devoir
+    - **Preposiciones de localización**: à côté de, en face de, derrière, devant, entre
+    - **Artículos contractos con DE**: du, de la, de l', des
+    - **Práctica integrada**: Je prends le bus, Tu fais du sport, La banque est à côté du parc
 
-### Semana 10: **Expresar tiempo: futuro y pasado cercanos**
+### Semana 10: **Orientación en la ciudad y tiempos compuestos**
 
 **Martes**
 
 - **Contenido léxico y gramatical:**
+    - **Indicar el camino**: Tournez à gauche/droite, Allez tout droit, Continuez jusqu'à
+    - **Expresiones de distancia**: près de, loin de, à 5 minutes, à côté
     - **Futur proche** (futuro próximo): ALLER + infinitivo
-    - **Vocabulario**: Actividades de fin de semana, planes
-    - **Gramática**: Je vais manger, Tu vas étudier, Il va partir
-    - **Práctica**: Qu'est-ce que tu vas faire ce week-end? - Je vais aller au cinéma
+    - **Práctica**: Où est la banque? - Allez tout droit, puis tournez à gauche. Je vais aller à la poste
 
 **Jueves**
 
 - **Contenido léxico y gramatical:**
     - **Passé récent** (pasado reciente): VENIR DE + infinitivo
     - **Présent progressif** (presente progresivo): ÊTRE EN TRAIN DE + infinitivo
-    - **Verbos 3er grupo**: offrir, courir, partir, venir
-    - **Práctica integrada con los 3 tiempos**: Je viens de manger, Je suis en train d'étudier, Je vais sortir
+    - **Actividades de fin de semana**: faire du shopping, visiter, se promener
+    - **Práctica integrada con 3 tiempos**: Je viens de finir, Je suis en train d'étudier, Je vais sortir
 
 ### Semana 11: **La casa y el hogar**
 
@@ -923,7 +958,28 @@ Al final de esta unidad, los estudiantes aprenderán los siguientes tiempos verb
     - **Concordancia de tiempos en narración**
     - **Práctica integrada**: Raconter une anecdote avec trois temps du passé
 
-### Semana 7: **Viajes y emociones: describir experiencias**
+### Semana 7: **Doble pronominalización: dominar los pronombres**
+
+**Martes:**
+
+- **Contenido léxico y gramatical:**
+    - **Repaso sistemático de pronombres**:
+        - COD: le, la, les
+        - COI: me, te, lui, nous, vous, leur
+        - EN, Y
+    - **Orden de pronombres en presente**: me/te/se/nous/vous + le/la/les + lui/leur + y + en
+    - **Práctica**: Je le lui donne, Tu me les montres, Il nous en parle
+
+**Jueves:**
+
+- **Contenido léxico y gramatical:**
+    - **Doble pronominalización en tiempos compuestos**: Je le lui ai donné, Tu me les as montrés
+    - **Con imperativo afirmativo**: Donne-le-moi!, Explique-nous-en!
+    - **Con imperativo negativo**: Ne me le donne pas!, Ne leur en parle pas!
+    - **Vocabulario de intercambio**: prêter, emprunter, offrir, rendre, expliquer, montrer
+    - **Práctica integrada**: Mon ami m'a prêté son livre. Je le lui ai rendu hier
+
+### Semana 8: **Viajes y emociones: describir experiencias**
 
 **Martes:**
 
@@ -941,7 +997,7 @@ Al final de esta unidad, los estudiantes aprenderán los siguientes tiempos verb
     - **Expresar sentimientos**: être content de, avoir peur de, être surpris que
     - **Práctica integrada**: Décrire ses émotions pendant un voyage/spectacle
 
-### Semana 8: **Personajes y sistema hipotético completo**
+### Semana 9: **Personajes y sistema hipotético completo**
 
 **Martes:**
 
@@ -961,7 +1017,7 @@ Al final de esta unidad, los estudiantes aprenderán los siguientes tiempos verb
         - Tipo 3: Si + plus-que-parfait → conditionnel passé
     - **Práctica integrada**: Si j'avais été le personnage, j'aurais fait...
 
-### Semana 9: **Tecnología y ecología: expresar opiniones**
+### Semana 10: **Tecnología y ecología: expresar opiniones**
 
 **Martes:**
 
@@ -979,25 +1035,32 @@ Al final de esta unidad, los estudiantes aprenderán los siguientes tiempos verb
     - **Debate estructurado**: D'un côté... de l'autre, Cependant, Néanmoins
     - **Práctica integrada**: Débat sur les avantages et inconvénients de la technologie
 
-### Semana 10: **El subjuntivo presente: expresar deseos y dudas**
+### Semana 11: **El subjuntivo presente: completar las formas**
 
 **Martes:**
 
 - **Contenido léxico y gramatical:**
-    - **Vocabulario de sentimientos**: souhaiter, espérer, craindre, douter
+    - **Vocabulario de sentimientos**: souhaiter, espérer, craindre, douter, regretter
     - **Formación del subjuntivo**: radical ils présent + -e, -es, -e, -ions, -iez, -ent
-    - **Subjuntivos irregulares**: être (sois), avoir (aie), aller (aille), faire (fasse)
-    - **Práctica**: Je veux que tu viennes, Il faut que nous fassions
+    - **Subjuntivos irregulares frecuentes**: être (sois, sois, soit, soyons, soyez, soient)
+        - avoir (aie, aies, ait, ayons, ayez, aient)
+        - aller (aille, ailles, aille, allions, alliez, aillent)
+        - faire (fasse), pouvoir (puisse), savoir (sache), vouloir (veuille)
+    - **Práctica**: Je veux que tu viennes, Il faut que nous fassions, Je souhaite qu'il soit heureux
 
 **Jueves:**
 
 - **Contenido léxico y gramatical:**
-    - **Verbos que requieren subjuntivo**: vouloir que, souhaiter que, il faut que
-    - **Vocabulario de posibilidad/duda**: possible, probable, incertain
+    - **Expresiones que requieren subjuntivo**:
+        - Voluntad: vouloir que, souhaiter que, désirer que
+        - Necesidad: il faut que, il est nécessaire que
+        - Emoción: être content que, avoir peur que, regretter que
+        - Duda: douter que, il est possible que
     - **Indicativo vs subjuntivo**: Je pense que (ind) vs Je ne pense pas que (subj)
-    - **Práctica integrada**: Exprimer des souhaits et des doutes sur l'avenir
+    - **Vocabulario de posibilidad/duda**: possible, probable, certain, incertain, douteux
+    - **Práctica integrada**: Exprimer des souhaits, des regrets et des doutes sur l'avenir
 
-### Semana 11: **Cine y tipos de escritura**
+### Semana 12: **Cine y tipos de escritura**
 
 **Martes:**
 
@@ -1191,23 +1254,23 @@ Al final de esta unidad, los estudiantes aprenderán los siguientes tiempos verb
     - **Conectores de causa y consecuencia**: puisque, étant donné que, de sorte que
     - **Práctica integrada**: Rédiger un compte rendu de réunion
 
-### Semana 9: **Síntesis y producción escrita avanzada**
+### Semana 9: **Subjuntivo avanzado y producción escrita**
 
 **Martes:**
 
 - **Contenido léxico y gramatical:**
-    - **Análisis de resultados de encuestas**: les pourcentages, la majorité, la minorité
-    - **Nominalización en informes**: créer → création, augmenter → augmentation
-    - **Discurso reportado en contexto profesional**: Les employés ont déclaré que...
-    - **Práctica**: Rédiger un rapport d'enquête
+    - **Subjuntivo con conjunciones**: avant que, pour que, afin que, bien que, quoique, sans que
+    - **Vocabulario de condiciones**: à condition que, pourvu que, à moins que
+    - **Expresiones impersonales + subjuntivo**: Il est important que, Il est nécessaire que, Il est dommage que
+    - **Práctica**: Bien qu'il soit fatigué, il travaille / Il faut que nous partions avant qu'il pleuve
 
 **Jueves:**
 
 - **Contenido léxico y gramatical:**
-    - **Revisión integradora**: todos los tiempos verbales estudiados
-    - **Subjuntivo vs indicativo** (repaso): quand la certitude diminue
-    - **Expresión de hipótesis en contexto profesional**
-    - **Práctica integrada**: Rédiger une proposition professionnelle
+    - **Análisis de resultados de encuestas**: les pourcentages, la majorité, la minorité
+    - **Nominalización en informes**: créer → création, augmenter → augmentation
+    - **Discurso reportado con subjuntivo**: Elle a exigé que nous soyons à l'heure
+    - **Práctica integrada**: Rédiger un rapport avec recommandations (usando subjuntivo)
 
 ### Semana 10-12: Preparación para el examen DELF Junior B1.
 
